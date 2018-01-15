@@ -1,5 +1,5 @@
 ---
-# Run with ansible-playbook <filename> -k
+# Run with ansible-playbook <filename> -k --ask-sudo-pass
 # (make sure to add the IPs of the machines you want to manage to 
 # your ansible hosts file first)
 
